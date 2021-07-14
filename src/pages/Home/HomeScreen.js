@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import {View, Text, StyleSheet} from 'react-native';
-import colors from '../constants/colors';
+import colors from '../../constants/colors';
 class HomeScreen extends Component {
   render() {
     return (

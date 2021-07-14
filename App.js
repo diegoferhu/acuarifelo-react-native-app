@@ -8,7 +8,7 @@
 
 import React from 'react';
 import {NavigationContainer} from '@react-navigation/native';
-import HomeStack from './src/pages/HomeStack';
+import HomeStack from './src/pages/Home/HomeStack';
 
 const App = () => {
   return (
